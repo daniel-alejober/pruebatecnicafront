@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { ThemeProvider } from "@mui/material/styles";
 import { theme } from "./theme";
 import Home from "./views/Home";
-import Registros from "./views/registros";
+import Registros from "./views/Registros";
 import TerminosCondiciones from "./views/TerminosCondiciones";
 import NoMatch from "./views/NoMatch";
 
